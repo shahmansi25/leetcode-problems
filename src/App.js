@@ -1,5 +1,6 @@
 import IntercesctionTwoArray from "./HashMap/IntercesctionTwoArray";
 import TwoSum from "./HashMap/TwoSum";
+import UniqueChar from "./HashMap/UniqueChar";
 
 
 function App() {
@@ -14,6 +15,9 @@ function App() {
         </li>
         <li> Intersection of Two Arrays
           <IntercesctionTwoArray />
+        </li>
+        <li>
+          <UniqueChar />
         </li>
       </ol>
       </>
