@@ -1,3 +1,4 @@
+import IntercesctionTwoArray from "./HashMap/IntercesctionTwoArray";
 import TwoSum from "./HashMap/TwoSum";
 
 
@@ -10,6 +11,9 @@ function App() {
       <ol>
         <li>Two Sum
           <TwoSum />
+        </li>
+        <li> Intersection of Two Arrays
+          <IntercesctionTwoArray />
         </li>
       </ol>
       </>
