@@ -1,7 +1,7 @@
 import IntercesctionTwoArray from "./HashMap/IntercesctionTwoArray";
 import TwoSum from "./HashMap/TwoSum";
 import UniqueChar from "./HashMap/UniqueChar";
-
+import ValidParentheses from "./Stack/ValidParentheses";
 
 function App() {
   return (
@@ -18,6 +18,9 @@ function App() {
         </li>
         <li>
           <UniqueChar />
+        </li>
+        <li> ValidParentheses
+          <ValidParentheses/>
         </li>
       </ol>
       </>
