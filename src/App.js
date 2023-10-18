@@ -2,6 +2,8 @@ import IntercesctionTwoArray from "./HashMap/IntercesctionTwoArray";
 import TwoSum from "./HashMap/TwoSum";
 import UniqueChar from "./HashMap/UniqueChar";
 import ValidParentheses from "./Stack/ValidParentheses";
+import MoveZero from "./Stack/moveZero";
+
 
 function App() {
   return (
@@ -21,6 +23,9 @@ function App() {
         </li>
         <li> ValidParentheses
           <ValidParentheses/>
+        </li>
+        <li> Move Zeros
+          <MoveZero/>
         </li>
       </ol>
       </>
